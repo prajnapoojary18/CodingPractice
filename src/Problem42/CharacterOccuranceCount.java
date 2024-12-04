@@ -1,6 +1,6 @@
 package Problem42;
 
-public class CharacterCount {
+public class CharacterOccuranceCount {
     public static void main(String[] args) {
         String str = "Hello, World!";
         char charToCount = 'o';

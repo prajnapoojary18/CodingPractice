@@ -1,6 +1,5 @@
 package Problem28;
 
-
 public class CheckForPalindrome {
     public static void main(String[] args) {
         System.out.println(checForPalindrome("radar"));

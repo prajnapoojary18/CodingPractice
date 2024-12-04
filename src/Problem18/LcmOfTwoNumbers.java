@@ -20,5 +20,4 @@ public class LcmOfTwoNumbers {
         return gCD(b,a%b);
 
     }
-
 }

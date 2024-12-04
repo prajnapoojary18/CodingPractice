@@ -1,4 +1,4 @@
-package Program45;
+package Problem45;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
